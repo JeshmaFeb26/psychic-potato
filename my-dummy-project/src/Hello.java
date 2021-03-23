@@ -9,6 +9,7 @@ public class Hello {
 		System.out.println("Hi developer");
 		System.out.println("Hi Java developer");
 		System.out.println("Hi Oracle angular developer");
+		System.out.println("Hi all");
 		
 	}
 }
